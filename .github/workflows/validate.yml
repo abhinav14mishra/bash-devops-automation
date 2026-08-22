@@ -1,0 +1,14 @@
+name: Validate Bash Projects
+on:
+  push:
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate project structure
+        run: python scripts/validate_projects.py
+      - name: Shell syntax check
+        shell: bash
+        run: find queue -name "*.sh" -print0 | xargs -0 -n1 bash -n

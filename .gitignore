@@ -1,0 +1,28 @@
+# Bash / shell
+*.log
+*.tmp
+*.swp
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.secret
+secrets/
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+!terraform.tfvars.example
