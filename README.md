@@ -6,7 +6,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 
 | Day | Folder | Project | Status |
 |---:|---|---|:---:|
-| 1 | `001_linux_system_information` | Linux System Information | ⏳ |
+| 1 | `001_linux_system_information` | Linux System Information | ✅ |
 | 2 | `002_file_operations` | File Operations | ⏳ |
 | 3 | `003_directory_management` | Directory Management | ⏳ |
 | 4 | `004_variables_and_user_input` | Variables and User Input | ⏳ |
