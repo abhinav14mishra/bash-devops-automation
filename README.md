@@ -8,7 +8,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 |---:|---|---|:---:|
 | 1 | `001_linux_system_information` | Linux System Information | ✅ |
 | 2 | `002_file_operations` | File Operations | ✅ |
-| 3 | `003_directory_management` | Directory Management | ⏳ |
+| 3 | `003_directory_management` | Directory Management | ✅ |
 | 4 | `004_variables_and_user_input` | Variables and User Input | ⏳ |
 | 5 | `005_command_line_arguments` | Command Line Arguments | ⏳ |
 | 6 | `006_conditions_and_exit_codes` | Conditions and Exit Codes | ⏳ |
