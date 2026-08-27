@@ -12,7 +12,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 4 | `004_variables_and_user_input` | Variables and User Input | ✅ |
 | 5 | `005_command_line_arguments` | Command Line Arguments | ✅ |
 | 6 | `006_conditions_and_exit_codes` | Conditions and Exit Codes | ✅ |
-| 7 | `007_loops_and_iteration` | Loops and Iteration | ⏳ |
+| 7 | `007_loops_and_iteration` | Loops and Iteration | ✅ |
 | 8 | `008_functions` | Functions | ⏳ |
 | 9 | `009_arrays` | Arrays | ⏳ |
 | 10 | `010_string_manipulation` | String Manipulation | ⏳ |
