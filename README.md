@@ -14,7 +14,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 6 | `006_conditions_and_exit_codes` | Conditions and Exit Codes | ✅ |
 | 7 | `007_loops_and_iteration` | Loops and Iteration | ✅ |
 | 8 | `008_functions` | Functions | ✅ |
-| 9 | `009_arrays` | Arrays | ⏳ |
+| 9 | `009_arrays` | Arrays | ✅ |
 | 10 | `010_string_manipulation` | String Manipulation | ⏳ |
 | 11 | `011_grep_log_search` | grep Log Search | ⏳ |
 | 12 | `012_sed_text_replacement` | sed Text Replacement | ⏳ |
