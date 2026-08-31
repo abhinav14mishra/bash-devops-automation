@@ -16,7 +16,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 8 | `008_functions` | Functions | ✅ |
 | 9 | `009_arrays` | Arrays | ✅ |
 | 10 | `010_string_manipulation` | String Manipulation | ✅ |
-| 11 | `011_grep_log_search` | grep Log Search | ⏳ |
+| 11 | `011_grep_log_search` | grep Log Search | ✅ |
 | 12 | `012_sed_text_replacement` | sed Text Replacement | ⏳ |
 | 13 | `013_awk_data_processing` | awk Data Processing | ⏳ |
 | 14 | `014_find_file_search` | find File Search | ⏳ |
