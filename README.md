@@ -19,7 +19,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 11 | `011_grep_log_search` | grep Log Search | ✅ |
 | 12 | `012_sed_text_replacement` | sed Text Replacement | ✅ |
 | 13 | `013_awk_data_processing` | awk Data Processing | ✅ |
-| 14 | `014_find_file_search` | find File Search | ⏳ |
+| 14 | `014_find_file_search` | find File Search | ✅ |
 | 15 | `015_xargs_batch_processing` | xargs Batch Processing | ⏳ |
 | 16 | `016_pipeline_automation` | Pipeline Automation | ⏳ |
 | 17 | `017_temporary_files_and_traps` | Temporary Files and Traps | ⏳ |
