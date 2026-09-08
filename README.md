@@ -24,7 +24,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 16 | `016_pipeline_automation` | Pipeline Automation | ✅ |
 | 17 | `017_temporary_files_and_traps` | Temporary Files and Traps | ✅ |
 | 18 | `018_error_handling_and_logging` | Error Handling and Logging | ✅ |
-| 19 | `019_configuration_file_parser` | Configuration File Parser | ⏳ |
+| 19 | `019_configuration_file_parser` | Configuration File Parser | ✅ |
 | 20 | `020_interactive_menu_script` | Interactive Menu Script | ⏳ |
 | 21 | `021_disk_usage_monitor` | Disk Usage Monitor | ⏳ |
 | 22 | `022_memory_usage_monitor` | Memory Usage Monitor | ⏳ |
