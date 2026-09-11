@@ -27,7 +27,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 19 | `019_configuration_file_parser` | Configuration File Parser | ✅ |
 | 20 | `020_interactive_menu_script` | Interactive Menu Script | ✅ |
 | 21 | `021_disk_usage_monitor` | Disk Usage Monitor | ✅ |
-| 22 | `022_memory_usage_monitor` | Memory Usage Monitor | ⏳ |
+| 22 | `022_memory_usage_monitor` | Memory Usage Monitor | ✅ |
 | 23 | `023_cpu_usage_monitor` | CPU Usage Monitor | ⏳ |
 | 24 | `024_process_monitor` | Process Monitor | ⏳ |
 | 25 | `025_top_process_reporter` | Top Process Reporter | ⏳ |
