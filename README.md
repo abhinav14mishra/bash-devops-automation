@@ -29,7 +29,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 21 | `021_disk_usage_monitor` | Disk Usage Monitor | ✅ |
 | 22 | `022_memory_usage_monitor` | Memory Usage Monitor | ✅ |
 | 23 | `023_cpu_usage_monitor` | CPU Usage Monitor | ✅ |
-| 24 | `024_process_monitor` | Process Monitor | ⏳ |
+| 24 | `024_process_monitor` | Process Monitor | ✅ |
 | 25 | `025_top_process_reporter` | Top Process Reporter | ⏳ |
 | 26 | `026_service_status_checker` | Service Status Checker | ⏳ |
 | 27 | `027_service_restart_automation` | Service Restart Automation | ⏳ |
