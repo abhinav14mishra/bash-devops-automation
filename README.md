@@ -31,7 +31,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 23 | `023_cpu_usage_monitor` | CPU Usage Monitor | ✅ |
 | 24 | `024_process_monitor` | Process Monitor | ✅ |
 | 25 | `025_top_process_reporter` | Top Process Reporter | ✅ |
-| 26 | `026_service_status_checker` | Service Status Checker | ⏳ |
+| 26 | `026_service_status_checker` | Service Status Checker | ✅ |
 | 27 | `027_service_restart_automation` | Service Restart Automation | ⏳ |
 | 28 | `028_port_connectivity_checker` | Port Connectivity Checker | ⏳ |
 | 29 | `029_network_interface_reporter` | Network Interface Reporter | ⏳ |
