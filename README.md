@@ -33,7 +33,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 25 | `025_top_process_reporter` | Top Process Reporter | ✅ |
 | 26 | `026_service_status_checker` | Service Status Checker | ✅ |
 | 27 | `027_service_restart_automation` | Service Restart Automation | ✅ |
-| 28 | `028_port_connectivity_checker` | Port Connectivity Checker | ⏳ |
+| 28 | `028_port_connectivity_checker` | Port Connectivity Checker | ✅ |
 | 29 | `029_network_interface_reporter` | Network Interface Reporter | ⏳ |
 | 30 | `030_dns_health_checker` | DNS Health Checker | ⏳ |
 | 31 | `031_http_endpoint_health_check` | HTTP Endpoint Health Check | ⏳ |
