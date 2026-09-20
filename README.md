@@ -36,7 +36,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 28 | `028_port_connectivity_checker` | Port Connectivity Checker | ✅ |
 | 29 | `029_network_interface_reporter` | Network Interface Reporter | ✅ |
 | 30 | `030_dns_health_checker` | DNS Health Checker | ✅ |
-| 31 | `031_http_endpoint_health_check` | HTTP Endpoint Health Check | ⏳ |
+| 31 | `031_http_endpoint_health_check` | HTTP Endpoint Health Check | ✅ |
 | 32 | `032_linux_user_audit` | Linux User Audit | ⏳ |
 | 33 | `033_linux_group_audit` | Linux Group Audit | ⏳ |
 | 34 | `034_file_permission_audit` | File Permission Audit | ⏳ |
