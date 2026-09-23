@@ -39,7 +39,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 31 | `031_http_endpoint_health_check` | HTTP Endpoint Health Check | ✅ |
 | 32 | `032_linux_user_audit` | Linux User Audit | ✅ |
 | 33 | `033_linux_group_audit` | Linux Group Audit | ✅ |
-| 34 | `034_file_permission_audit` | File Permission Audit | ⏳ |
+| 34 | `034_file_permission_audit` | File Permission Audit | ✅ |
 | 35 | `035_ssh_configuration_audit` | SSH Configuration Audit | ⏳ |
 | 36 | `036_sudo_access_audit` | Sudo Access Audit | ⏳ |
 | 37 | `037_large_file_finder` | Large File Finder | ⏳ |
