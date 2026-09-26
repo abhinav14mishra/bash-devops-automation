@@ -42,7 +42,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 34 | `034_file_permission_audit` | File Permission Audit | ✅ |
 | 35 | `035_ssh_configuration_audit` | SSH Configuration Audit | ✅ |
 | 36 | `036_sudo_access_audit` | Sudo Access Audit | ✅ |
-| 37 | `037_large_file_finder` | Large File Finder | ⏳ |
+| 37 | `037_large_file_finder` | Large File Finder | ✅ |
 | 38 | `038_old_file_cleaner` | Old File Cleaner | ⏳ |
 | 39 | `039_duplicate_file_detector` | Duplicate File Detector | ⏳ |
 | 40 | `040_linux_backup_script` | Linux Backup Script | ⏳ |
