@@ -46,7 +46,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 38 | `038_old_file_cleaner` | Old File Cleaner | ✅ |
 | 39 | `039_duplicate_file_detector` | Duplicate File Detector | ✅ |
 | 40 | `040_linux_backup_script` | Linux Backup Script | ✅ |
-| 41 | `041_backup_verification_script` | Backup Verification Script | ⏳ |
+| 41 | `041_backup_verification_script` | Backup Verification Script | ✅ |
 | 42 | `042_log_file_analyzer` | Log File Analyzer | ⏳ |
 | 43 | `043_failed_login_analyzer` | Failed Login Analyzer | ⏳ |
 | 44 | `044_ssh_login_report` | SSH Login Report | ⏳ |
