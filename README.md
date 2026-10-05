@@ -51,7 +51,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 43 | `043_failed_login_analyzer` | Failed Login Analyzer | ✅ |
 | 44 | `044_ssh_login_report` | SSH Login Report | ✅ |
 | 45 | `045_nginx_log_analyzer` | Nginx Log Analyzer | ✅ |
-| 46 | `046_apache_log_analyzer` | Apache Log Analyzer | ⏳ |
+| 46 | `046_apache_log_analyzer` | Apache Log Analyzer | ✅ |
 | 47 | `047_log_rotation_helper` | Log Rotation Helper | ⏳ |
 | 48 | `048_system_cleanup_script` | System Cleanup Script | ⏳ |
 | 49 | `049_disk_alert_script` | Disk Alert Script | ⏳ |
