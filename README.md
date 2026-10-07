@@ -53,7 +53,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 45 | `045_nginx_log_analyzer` | Nginx Log Analyzer | ✅ |
 | 46 | `046_apache_log_analyzer` | Apache Log Analyzer | ✅ |
 | 47 | `047_log_rotation_helper` | Log Rotation Helper | ✅ |
-| 48 | `048_system_cleanup_script` | System Cleanup Script | ⏳ |
+| 48 | `048_system_cleanup_script` | System Cleanup Script | ✅ |
 | 49 | `049_disk_alert_script` | Disk Alert Script | ⏳ |
 | 50 | `050_server_health_check` | Server Health Check | ⏳ |
 | 51 | `051_aws_cli_ec2_inventory` | AWS CLI EC2 Inventory | ⏳ |
