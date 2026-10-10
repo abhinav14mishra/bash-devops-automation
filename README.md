@@ -56,7 +56,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 48 | `048_system_cleanup_script` | System Cleanup Script | ✅ |
 | 49 | `049_disk_alert_script` | Disk Alert Script | ✅ |
 | 50 | `050_server_health_check` | Server Health Check | ✅ |
-| 51 | `051_aws_cli_ec2_inventory` | AWS CLI EC2 Inventory | ⏳ |
+| 51 | `051_aws_cli_ec2_inventory` | AWS CLI EC2 Inventory | ✅ |
 | 52 | `052_aws_cli_start_ec2` | AWS CLI Start EC2 | ⏳ |
 | 53 | `053_aws_cli_stop_ec2` | AWS CLI Stop EC2 | ⏳ |
 | 54 | `054_aws_cli_reboot_ec2` | AWS CLI Reboot EC2 | ⏳ |
