@@ -60,7 +60,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 52 | `052_aws_cli_start_ec2` | AWS CLI Start EC2 | ✅ |
 | 53 | `053_aws_cli_stop_ec2` | AWS CLI Stop EC2 | ✅ |
 | 54 | `054_aws_cli_reboot_ec2` | AWS CLI Reboot EC2 | ✅ |
-| 55 | `055_aws_cli_ec2_tagging` | AWS CLI EC2 Tagging | ⏳ |
+| 55 | `055_aws_cli_ec2_tagging` | AWS CLI EC2 Tagging | ✅ |
 | 56 | `056_aws_cli_s3_upload` | AWS CLI S3 Upload | ⏳ |
 | 57 | `057_aws_cli_s3_download` | AWS CLI S3 Download | ⏳ |
 | 58 | `058_aws_cli_s3_cleanup` | AWS CLI S3 Cleanup | ⏳ |
