@@ -63,7 +63,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 55 | `055_aws_cli_ec2_tagging` | AWS CLI EC2 Tagging | ✅ |
 | 56 | `056_aws_cli_s3_upload` | AWS CLI S3 Upload | ✅ |
 | 57 | `057_aws_cli_s3_download` | AWS CLI S3 Download | ✅ |
-| 58 | `058_aws_cli_s3_cleanup` | AWS CLI S3 Cleanup | ⏳ |
+| 58 | `058_aws_cli_s3_cleanup` | AWS CLI S3 Cleanup | ✅ |
 | 59 | `059_aws_cli_s3_inventory` | AWS CLI S3 Inventory | ⏳ |
 | 60 | `060_aws_cli_ebs_snapshot` | AWS CLI EBS Snapshot | ⏳ |
 | 61 | `061_aws_cli_ami_inventory` | AWS CLI AMI Inventory | ⏳ |
