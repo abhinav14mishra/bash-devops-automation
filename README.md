@@ -67,7 +67,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 59 | `059_aws_cli_s3_inventory` | AWS CLI S3 Inventory | ✅ |
 | 60 | `060_aws_cli_ebs_snapshot` | AWS CLI EBS Snapshot | ✅ |
 | 61 | `061_aws_cli_ami_inventory` | AWS CLI AMI Inventory | ✅ |
-| 62 | `062_aws_cli_iam_user_report` | AWS CLI IAM User Report | ⏳ |
+| 62 | `062_aws_cli_iam_user_report` | AWS CLI IAM User Report | ✅ |
 | 63 | `063_aws_cli_iam_key_audit` | AWS CLI IAM Key Audit | ⏳ |
 | 64 | `064_aws_cli_cloudwatch_query` | AWS CLI CloudWatch Query | ⏳ |
 | 65 | `065_aws_cli_cost_report` | AWS CLI Cost Report | ⏳ |
