@@ -72,7 +72,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 64 | `064_aws_cli_cloudwatch_query` | AWS CLI CloudWatch Query | ✅ |
 | 65 | `065_aws_cli_cost_report` | AWS CLI Cost Report | ✅ |
 | 66 | `066_aws_resource_inventory` | AWS Resource Inventory | ✅ |
-| 67 | `067_aws_region_resource_checker` | AWS Region Resource Checker | ⏳ |
+| 67 | `067_aws_region_resource_checker` | AWS Region Resource Checker | ✅ |
 | 68 | `068_aws_security_group_audit` | AWS Security Group Audit | ⏳ |
 | 69 | `069_aws_backup_automation` | AWS Backup Automation | ⏳ |
 | 70 | `070_git_repository_backup` | Git Repository Backup | ⏳ |
