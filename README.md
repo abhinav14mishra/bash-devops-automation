@@ -77,7 +77,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 69 | `069_aws_backup_automation` | AWS Backup Automation | ✅ |
 | 70 | `070_git_repository_backup` | Git Repository Backup | ✅ |
 | 71 | `071_git_branch_cleanup` | Git Branch Cleanup | ✅ |
-| 72 | `072_git_tag_automation` | Git Tag Automation | ⏳ |
+| 72 | `072_git_tag_automation` | Git Tag Automation | ✅ |
 | 73 | `073_git_release_helper` | Git Release Helper | ⏳ |
 | 74 | `074_git_changed_files_reporter` | Git Changed Files Reporter | ⏳ |
 | 75 | `075_docker_image_cleanup` | Docker Image Cleanup | ⏳ |
