@@ -82,7 +82,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 74 | `074_git_changed_files_reporter` | Git Changed Files Reporter | ✅ |
 | 75 | `075_docker_image_cleanup` | Docker Image Cleanup | ✅ |
 | 76 | `076_docker_container_health_check` | Docker Container Health Check | ✅ |
-| 77 | `077_docker_log_collector` | Docker Log Collector | ⏳ |
+| 77 | `077_docker_log_collector` | Docker Log Collector | ✅ |
 | 78 | `078_docker_disk_cleanup` | Docker Disk Cleanup | ⏳ |
 | 79 | `079_docker_build_helper` | Docker Build Helper | ⏳ |
 | 80 | `080_jenkins_build_trigger` | Jenkins Build Trigger | ⏳ |
