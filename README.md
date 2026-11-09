@@ -86,7 +86,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 78 | `078_docker_disk_cleanup` | Docker Disk Cleanup | ✅ |
 | 79 | `079_docker_build_helper` | Docker Build Helper | ✅ |
 | 80 | `080_jenkins_build_trigger` | Jenkins Build Trigger | ✅ |
-| 81 | `081_jenkins_build_monitor` | Jenkins Build Monitor | ⏳ |
+| 81 | `081_jenkins_build_monitor` | Jenkins Build Monitor | ✅ |
 | 82 | `082_ci_pipeline_helper` | CI Pipeline Helper | ⏳ |
 | 83 | `083_deployment_preflight_check` | Deployment Preflight Check | ⏳ |
 | 84 | `084_deployment_script` | Deployment Script | ⏳ |
