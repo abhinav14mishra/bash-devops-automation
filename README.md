@@ -91,7 +91,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 83 | `083_deployment_preflight_check` | Deployment Preflight Check | ✅ |
 | 84 | `084_deployment_script` | Deployment Script | ✅ |
 | 85 | `085_deployment_rollback_script` | Deployment Rollback Script | ✅ |
-| 86 | `086_environment_configuration_loader` | Environment Configuration Loader | ⏳ |
+| 86 | `086_environment_configuration_loader` | Environment Configuration Loader | ✅ |
 | 87 | `087_secret_file_validation` | Secret File Validation | ⏳ |
 | 88 | `088_application_health_checker` | Application Health Checker | ⏳ |
 | 89 | `089_service_dependency_checker` | Service Dependency Checker | ⏳ |
