@@ -94,7 +94,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 86 | `086_environment_configuration_loader` | Environment Configuration Loader | ✅ |
 | 87 | `087_secret_file_validation` | Secret File Validation | ✅ |
 | 88 | `088_application_health_checker` | Application Health Checker | ✅ |
-| 89 | `089_service_dependency_checker` | Service Dependency Checker | ⏳ |
+| 89 | `089_service_dependency_checker` | Service Dependency Checker | ✅ |
 | 90 | `090_zero_downtime_deployment_helper` | Zero Downtime Deployment Helper | ⏳ |
 | 91 | `091_blue_green_deployment_helper` | Blue Green Deployment Helper | ⏳ |
 | 92 | `092_server_patch_preparation` | Server Patch Preparation | ⏳ |
