@@ -96,7 +96,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 88 | `088_application_health_checker` | Application Health Checker | ✅ |
 | 89 | `089_service_dependency_checker` | Service Dependency Checker | ✅ |
 | 90 | `090_zero_downtime_deployment_helper` | Zero Downtime Deployment Helper | ✅ |
-| 91 | `091_blue_green_deployment_helper` | Blue Green Deployment Helper | ⏳ |
+| 91 | `091_blue_green_deployment_helper` | Blue Green Deployment Helper | ✅ |
 | 92 | `092_server_patch_preparation` | Server Patch Preparation | ⏳ |
 | 93 | `093_production_log_collection` | Production Log Collection | ⏳ |
 | 94 | `094_production_server_cleanup` | Production Server Cleanup | ⏳ |
