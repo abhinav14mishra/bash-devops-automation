@@ -98,7 +98,7 @@ A hands-on 100-project Bash and shell automation journey for DevOps and cloud en
 | 90 | `090_zero_downtime_deployment_helper` | Zero Downtime Deployment Helper | ✅ |
 | 91 | `091_blue_green_deployment_helper` | Blue Green Deployment Helper | ✅ |
 | 92 | `092_server_patch_preparation` | Server Patch Preparation | ✅ |
-| 93 | `093_production_log_collection` | Production Log Collection | ⏳ |
+| 93 | `093_production_log_collection` | Production Log Collection | ✅ |
 | 94 | `094_production_server_cleanup` | Production Server Cleanup | ⏳ |
 | 95 | `095_disaster_recovery_backup` | Disaster Recovery Backup | ⏳ |
 | 96 | `096_disaster_recovery_restore_check` | Disaster Recovery Restore Check | ⏳ |
